@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# don't forget to shellcheck
 
 set -o errexit
 set -o nounset
